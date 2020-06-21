@@ -1,0 +1,7 @@
+name: "TestPlugin"
+main: "net.pl3x.bukkit.TestPlugin"
+version: "${project.version}"
+description: "Just a test..."
+author: "BillyGalbreath"
+api-version: "1.13"
+depend: [ ProtocolLib ]
